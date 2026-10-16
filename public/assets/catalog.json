@@ -1,0 +1,616 @@
+{
+  "artist": {
+    "name": "Valesca Almeida",
+    "stageName": "Vavá",
+    "username": "@valesca_almeida",
+    "headline": "Atriz & Comediante | Olga em \"Coração Acelerado\" (TV Globo) | GYN/RJ",
+    "locations": [
+      "Goiânia (GYN)",
+      "Rio de Janeiro (RJ)"
+    ],
+    "roles": [
+      "Atriz",
+      "Comediante Stand-Up",
+      "Artista Cênica e Audiovisual"
+    ],
+    "featuredRole": {
+      "character": "Olga",
+      "work": "Coração Acelerado",
+      "network": "TV Globo / Globoplay",
+      "description": "Interpreta Olga, dona/gerente da lanchonete que contracena diretamente com a protagonista Eduarda na novela 'Coração Acelerado' da TV Globo."
+    },
+    "contact": {
+      "whatsappNumber": "5562992751516",
+      "whatsappUrl": "https://wa.me/5562992751516",
+      "whatsappApiUrl": "https://api.whatsapp.com/send?phone=5562992751516",
+      "instagram": "https://www.instagram.com/valesca_almeida",
+      "threads": "https://www.threads.com/@valesca_almeida",
+      "facebook": "https://www.facebook.com/valesca.almeida",
+      "spotify": "https://open.spotify.com/user/12168932916?si=339dd652599f44bf",
+      "linktree": "https://linktr.ee/valesca_almeida"
+    },
+    "profileImage": {
+      "localPath": "/assets/profile/valesca-profile.jpg",
+      "originalUrl": "https://ugc.production.linktr.ee/9de9cc10-e8a8-492e-bd6e-a2b99b25297a_linktree-cropped-abceddd6-70c9-4716-87af-3d23b60788b3.jpeg",
+      "description": "Foto de perfil oficial: Valesca Almeida sorrindo com olhar expressivo e brilhante atrás de uma claquete profissional de cinema/TV ('Produção / Rolo / Cena / Plano / Tomada'), fundo cinza de estúdio, unhas pintadas de verde vibrante e tatuagem 'PENSE' no ombro esquerdo."
+    }
+  },
+  "linktreeData": {
+    "groups": [
+      {
+        "id": 538895593,
+        "title": "Olga, Coração Acelerado - TV GLOBO",
+        "category": "televisao_novela",
+        "items": [
+          {
+            "id": 538896278,
+            "title": "01 - Globoplay | Coração Acelerado | Eduarda frita hambúrguer na lanchonete enquanto canta e sonha com o estrelato feminejo",
+            "url": "https://globoplay.globo.com/v/14258857/?s=0s",
+            "originalThumbnail": "https://ugc.production.linktr.ee/821096d3-f4a6-4c93-a075-ce3bcb465cbb_14258857.jpeg",
+            "localThumbnail": "/assets/profile/thumb-globoplay-01-14258857.jpg"
+          },
+          {
+            "id": 538896184,
+            "title": "02 - Globoplay | Coração Acelerado | Eduarda limpa a lanchonete, é explorada e maltratada por Olga",
+            "url": "https://globoplay.globo.com/v/14262327",
+            "originalThumbnail": "https://ugc.production.linktr.ee/a83fbb0b-c166-4b4d-89d8-7f08dc6c3510_14262327.jpeg",
+            "localThumbnail": "/assets/profile/thumb-globoplay-02-14262327.jpg"
+          },
+          {
+            "id": 538896353,
+            "title": "03 - Globoplay | Coração Acelerado | Na lanchonete, Eduarda pensa nas eliminatórias",
+            "url": "https://globoplay.globo.com/v/14264698",
+            "originalThumbnail": "https://ugc.production.linktr.ee/74b0683b-81ba-43e7-9359-a8f05978305b_14264698.jpeg",
+            "localThumbnail": "/assets/profile/thumb-globoplay-03-14264698.jpg"
+          },
+          {
+            "id": 538896474,
+            "title": "04 - Globoplay | Coração Acelerado | Olga flagra bagunça na lanchonete e dá esporro em Eduarda",
+            "url": "https://globoplay.globo.com/v/14268813",
+            "originalThumbnail": "https://ugc.production.linktr.ee/aa836cc4-38ac-4561-b185-2fbd20073f8d_14268813.jpeg",
+            "localThumbnail": "/assets/profile/thumb-globoplay-04-14268813.jpg",
+            "visualNote": "Close-up de Valesca Almeida caracterizada como Olga em cena na TV Globo, expressão intensa dando bronca na lanchonete."
+          }
+        ]
+      },
+      {
+        "id": 539999709,
+        "title": "Standup Comedy",
+        "category": "comedia_standup",
+        "items": [
+          {
+            "id": 540001325,
+            "title": "2023 - TÁ GRAVE! - Show de Humor!",
+            "url": "https://drive.google.com/drive/u/0/folders/1ckdZy7SQuniW4x_FZdItcHWyXXz_HVoR",
+            "localThumbnail": "/assets/profile/thumb-standup-2023-ta-grave-01.jpg",
+            "videos": [
+              {
+                "name": "TÁ GRAVE! - Parte 1 (lv_7171278135894347013)",
+                "driveId": "1V8BJAbzKilf1ZcgkbYO4pWczNERy3sNT",
+                "viewUrl": "https://drive.google.com/file/d/1V8BJAbzKilf1ZcgkbYO4pWczNERy3sNT/view",
+                "previewEmbedUrl": "https://drive.google.com/file/d/1V8BJAbzKilf1ZcgkbYO4pWczNERy3sNT/preview",
+                "localThumbnail": "/assets/profile/thumb-standup-2023-ta-grave-01.jpg"
+              },
+              {
+                "name": "TÁ GRAVE! - Valesca 02",
+                "driveId": "1OJgCM8E1FVRTtAXokOfUQh3UBliWhcsk",
+                "viewUrl": "https://drive.google.com/file/d/1OJgCM8E1FVRTtAXokOfUQh3UBliWhcsk/view",
+                "previewEmbedUrl": "https://drive.google.com/file/d/1OJgCM8E1FVRTtAXokOfUQh3UBliWhcsk/preview",
+                "localThumbnail": "/assets/profile/thumb-standup-2023-ta-grave-02.jpg"
+              }
+            ]
+          },
+          {
+            "id": 540000712,
+            "title": "2024 - StandUp Comedy por Valesca Almeida",
+            "url": "https://drive.google.com/drive/u/0/folders/1pR0VjHRZ91KI01laV3mxF5ty9t_QKy_X",
+            "localThumbnail": "/assets/profile/thumb-standup-2024-show.jpg",
+            "videos": [
+              {
+                "name": "StandUp Comedy 2024 (25/07/2024)",
+                "driveId": "1jz-7QnYjHzT_Af8oEbK41D5mmRb0eG9L",
+                "viewUrl": "https://drive.google.com/file/d/1jz-7QnYjHzT_Af8oEbK41D5mmRb0eG9L/view",
+                "previewEmbedUrl": "https://drive.google.com/file/d/1jz-7QnYjHzT_Af8oEbK41D5mmRb0eG9L/preview",
+                "localThumbnail": "/assets/profile/thumb-standup-2024-show.jpg"
+              }
+            ]
+          },
+          {
+            "id": 540000154,
+            "title": "2024 - Riso Night! Standup comedy por Valesca Almeida",
+            "url": "https://drive.google.com/file/d/1-LRlYPSnsW7P0lvGsLUoDLe5mOHY8RcK/view?usp=drive_link",
+            "driveId": "1-LRlYPSnsW7P0lvGsLUoDLe5mOHY8RcK",
+            "previewEmbedUrl": "https://drive.google.com/file/d/1-LRlYPSnsW7P0lvGsLUoDLe5mOHY8RcK/preview",
+            "localThumbnail": "/assets/profile/thumb-riso-night-2024.jpg",
+            "visualNote": "Valesca Almeida no palco do Guardians Comedy Club ao lado do pedestal de microfone em apresentação de Stand-Up Comedy."
+          }
+        ]
+      },
+      {
+        "id": 538894996,
+        "title": "Vídeo Clipe",
+        "category": "audiovisual_clipe",
+        "items": [
+          {
+            "id": 539095694,
+            "type": "YOUTUBE_VIDEO",
+            "title": "ATÉ LÁ - MELINA",
+            "url": "https://youtu.be/bgCgCyWHUts?si=Jh4OMVW27bwQ6JLb",
+            "youtubeEmbedUrl": "https://www.youtube.com/embed/bgCgCyWHUts",
+            "videoId": "bgCgCyWHUts",
+            "originalThumbnail": "https://ugc.production.linktr.ee/fcce36db-e5ee-4884-8657-3856fe3102c4_hqdefault.jpeg",
+            "localThumbnail": "/assets/profile/thumb-clipe-ate-la-melina.jpg"
+          }
+        ]
+      },
+      {
+        "id": 538897379,
+        "title": "Destaque na Mídia!!",
+        "category": "imprensa_midia",
+        "items": [
+          {
+            "id": 539094806,
+            "title": "Jornal O Popular - Stand-up feminino: mulheres empreendem com criatividade e buscam mais espaço em mercado majoritariamente masculino",
+            "publication": "O Popular (Magazine)",
+            "url": "https://opopular.com.br/magazine/stand-up-feminino-mulheres-empreendem-com-criatividade-e-buscam-mais-espaco-em-mercado-majoritariamente-masculino-1.3273448"
+          }
+        ]
+      },
+      {
+        "id": 539096965,
+        "title": "Workshops",
+        "category": "formacao_workshops",
+        "items": [
+          {
+            "id": 539100184,
+            "title": "Globo - Experimentação cênica · Feb 19 – 21, 2025 📸",
+            "url": "https://photos.app.goo.gl/NVogF1NGxqQbjh9i8",
+            "originalThumbnail": "https://ugc.production.linktr.ee/17ebc52b-a22b-432f-859d-cd190c074d56_AP1GczPAutU0rH-aQQztcKTrcrzdZEUFFv8LnxOky-O6Rrrs6wR0n1YbQwIjvBhaY2quwUtOEOFR-gT3XfMf7Ludf2qI-pm8ais9.jpeg",
+            "localThumbnail": "/assets/profile/thumb-globo-experimentacao-cenica.jpg",
+            "visualNote": "Registro nos bastidores da oficina de Experimentação Cênica na Globo (fevereiro de 2025)."
+          }
+        ]
+      }
+    ],
+    "directLinks": [
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/valesca_almeida",
+        "type": "INSTAGRAM"
+      },
+      {
+        "title": "WhatsApp",
+        "url": "https://wa.me/5562992751516",
+        "type": "WHATSAPP"
+      },
+      {
+        "title": "Spotify",
+        "url": "https://open.spotify.com/user/12168932916?si=339dd652599f44bf",
+        "type": "SPOTIFY"
+      },
+      {
+        "title": "Threads",
+        "url": "https://www.threads.com/@valesca_almeida",
+        "type": "THREADS"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/valesca.almeida",
+        "type": "FACEBOOK"
+      }
+    ]
+  },
+  "ensaioGallery": [
+    {
+      "filename": "cdgleonardo-132.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-132.jpg",
+      "driveId": "1GBdOc8W5TxEbLVrIcR6uTBiX8k6i5Xyd",
+      "orientation": "landscape",
+      "framing": "plano médio (meio busto)",
+      "outfit": "Regata azul-marinho",
+      "mood": "Comédia / Sorriso espontâneo",
+      "categories": [
+        "comedia",
+        "retrato",
+        "casual"
+      ],
+      "description": "Plano médio em fundo branco infinito; Valesca veste regata azul-marinho, mão direita apoiada no rosto e sorriso largo e espontâneo."
+    },
+    {
+      "filename": "cdgleonardo-178.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-178.jpg",
+      "driveId": "1c7nTFeyAX8yZT_7gqUZenZku6Nfx6T_0",
+      "orientation": "portrait",
+      "framing": "corpo inteiro",
+      "outfit": "Regata azul-marinho, calça jeans clara, camisa verde-militar no ombro, descalça",
+      "mood": "Descontraído / Carismático",
+      "categories": [
+        "corpo-inteiro",
+        "casual",
+        "comedia"
+      ],
+      "description": "Foto de corpo inteiro em estúdio branco; Valesca veste regata azul-marinho e jeans claro, segurando camisa verde-oliva sobre o ombro com sorriso confiante."
+    },
+    {
+      "filename": "cdgleonardo-225.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-225.jpg",
+      "driveId": "1Fzgvf6ntwwYF_XUZ9F2ujkuHlKKbS4_E",
+      "orientation": "landscape",
+      "framing": "close-up",
+      "outfit": "Regata azul-marinho",
+      "mood": "Dramático / Intenso",
+      "categories": [
+        "drama",
+        "close-up",
+        "retrato"
+      ],
+      "description": "Close-up dramático horizontal; olhar profundo e vulnerável direto para a lente enquanto a mão esquerda segura os cabelos."
+    },
+    {
+      "filename": "cdgleonardo-243.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-243.jpg",
+      "driveId": "1zRIDqjfUbY359Igan1v0PrFifmlrX6h4",
+      "orientation": "portrait",
+      "framing": "close-up / meio busto",
+      "outfit": "Regata azul-marinho (tatuagem 'SURVIVOR' visível no ombro)",
+      "mood": "Alegria contagiante / Gargalhada",
+      "categories": [
+        "comedia",
+        "close-up",
+        "retrato"
+      ],
+      "description": "Retrato vertical radiante; Valesca dá uma gargalhada de olhos fechados apoiando o queixo sobre as mãos, destacando a tatuagem 'SURVIVOR' no ombro esquerdo."
+    },
+    {
+      "filename": "cdgleonardo-354.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-354.jpg",
+      "driveId": "12_mP-trgs5-sy4GQ1upEQhzxvJSb2x_z",
+      "orientation": "portrait",
+      "framing": "close-up / meio busto",
+      "outfit": "Camisa verde-militar / verde-oliva",
+      "mood": "Dramático / Contemplativo / Elegante",
+      "categories": [
+        "drama",
+        "close-up",
+        "retrato"
+      ],
+      "description": "Retrato dramático e sofisticado com camisa verde-militar; expressão serena e olhar penetrante com os dedos tocando levemente o queixo."
+    },
+    {
+      "filename": "cdgleonardo-405.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-405.jpg",
+      "driveId": "1TWeBBfeqk8HIQ1_Xseilh4QxdaRkWpeH",
+      "orientation": "portrait",
+      "framing": "corpo inteiro",
+      "outfit": "Blusa branca, saia midi azul-royal vibrante, brincos vermelhos, descalça",
+      "mood": "Comédia / Expressiva / Bem-humorada",
+      "categories": [
+        "comedia",
+        "corpo-inteiro",
+        "estudio"
+      ],
+      "description": "Corpo inteiro cheio de humor e personalidade; blusa branca e saia azul-royal, fazendo biquinho e gesto divertido com as mãos."
+    },
+    {
+      "filename": "cdgleonardo-463.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-463.jpg",
+      "driveId": "1yoynCrQbSitIzpmLDChwEJ9BbQzexncB",
+      "orientation": "portrait",
+      "framing": "plano médio",
+      "outfit": "Blusa branca e brincos vermelhos apoiada em poltrona de veludo azul-marinho",
+      "mood": "Simpático / Acolhedor",
+      "categories": [
+        "retrato",
+        "estudio",
+        "casual"
+      ],
+      "description": "Plano médio vertical; Valesca sorri apoiada sobre o encosto de uma poltrona de veludo azul-escuro."
+    },
+    {
+      "filename": "cdgleonardo-481.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-481.jpg",
+      "driveId": "1xDSbJ9254cNOLjxe0wvQDfmPMYEcVhAo",
+      "orientation": "portrait",
+      "framing": "close-up / plano médio",
+      "outfit": "Blusa branca, saia azul-royal, poltrona de veludo azul",
+      "mood": "Comédia / Gargalhada espontânea",
+      "categories": [
+        "comedia",
+        "close-up",
+        "estudio"
+      ],
+      "description": "Gargalhada espontânea e vibrante debruçada sobre a poltrona de veludo azul, transmitindo energia cômica."
+    },
+    {
+      "filename": "cdgleonardo-548.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-548.jpg",
+      "driveId": "1UAbjcB6BqPIua4K8kZuaqJUWOl6cZy8i",
+      "orientation": "landscape",
+      "framing": "corpo inteiro sentada",
+      "outfit": "Blusa branca e saia azul-royal",
+      "mood": "Leve / Artístico",
+      "categories": [
+        "corpo-inteiro",
+        "estudio",
+        "casual"
+      ],
+      "description": "Foto horizontal em estúdio branco; Valesca sentada no chão ao lado de um cilindro cênico branco com sorriso tranquilo."
+    },
+    {
+      "filename": "cdgleonardo-555.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-555.jpg",
+      "driveId": "1zMEgOiQgauKLBthj0CxikrS8dvvOxmgK",
+      "orientation": "portrait",
+      "framing": "close-up",
+      "outfit": "Blusa branca e saia azul-royal",
+      "mood": "Carismático / Doce",
+      "categories": [
+        "close-up",
+        "retrato",
+        "comedia"
+      ],
+      "description": "Close-up encantador com as duas mãos apoiando o rosto sobre o cubo branco, sorriso aberto e olhar luminoso."
+    },
+    {
+      "filename": "cdgleonardo-571.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-571.jpg",
+      "driveId": "1-a8u1DtHKL9KEIY4UOip8pUpwT5Yh3Ns",
+      "orientation": "portrait",
+      "framing": "plano médio",
+      "outfit": "Blusa branca, saia azul-royal, brincos vermelhos",
+      "mood": "Alegre / Dinâmico",
+      "categories": [
+        "retrato",
+        "comedia",
+        "estudio"
+      ],
+      "description": "Plano médio apoiada no cilindro branco de estúdio, sorrindo de forma expressiva e descontraída."
+    },
+    {
+      "filename": "cdgleonardo-595.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-595.jpg",
+      "driveId": "1dl2I4fENoZXZVrmYZwWYGB19Hw1ykEYp",
+      "orientation": "portrait",
+      "framing": "plano médio / close-up",
+      "outfit": "Blusa branca, saia azul-royal, brincos vermelhos",
+      "mood": "Confiante / Sereno",
+      "categories": [
+        "retrato",
+        "drama",
+        "estudio"
+      ],
+      "description": "Retrato elegante apoiando o queixo na mão sobre o cilindro branco, olhar calmo e seguro para casting de TV e cinema."
+    },
+    {
+      "filename": "cdgleonardo-613.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-613.jpg",
+      "driveId": "1U3MCy-gf065Tw1c9YY2KsNS2eHlHv4Fd",
+      "orientation": "portrait",
+      "framing": "corpo inteiro sentada",
+      "outfit": "Blusa branca e saia midi azul-royal",
+      "mood": "Alegre / Espontâneo",
+      "categories": [
+        "corpo-inteiro",
+        "comedia",
+        "estudio"
+      ],
+      "description": "Sentada sobre o cilindro branco com saia azul-royal fluida, mão na cintura e sorriso aberto."
+    },
+    {
+      "filename": "cdgleonardo-634.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-634.jpg",
+      "driveId": "1fed9pS1OWp3FTvx_Ix8olvZ0NGROqDGx",
+      "orientation": "portrait",
+      "framing": "corpo inteiro sentada",
+      "outfit": "Blusa branca e saia midi azul-royal",
+      "mood": "Simpático / Clássico",
+      "categories": [
+        "corpo-inteiro",
+        "estudio"
+      ],
+      "description": "Pose sentada com pernas cruzadas sobre o cilindro branco, sorriso caloroso e postura elegante."
+    },
+    {
+      "filename": "cdgleonardo-643.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-643.jpg",
+      "driveId": "18kSV87HpaN7D4uDBb3mYFqCqUpU8TXeA",
+      "orientation": "portrait",
+      "framing": "corpo inteiro",
+      "outfit": "Blusa branca e saia midi azul-royal com octabox de estúdio ao fundo",
+      "mood": "Bastidores / Making-of / Alegre",
+      "categories": [
+        "corpo-inteiro",
+        "bastidores",
+        "estudio"
+      ],
+      "description": "Corpo inteiro revelando o octabox de iluminação do estúdio ao fundo, mãos na cintura e sorriso largo."
+    },
+    {
+      "filename": "cdgleonardo-671.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-671.jpg",
+      "driveId": "1qxrhicty-PSVLPJS4Xe5Fc2NjFgrIBMY",
+      "orientation": "portrait",
+      "framing": "corpo inteiro",
+      "outfit": "Blusa branca e saia midi azul-royal",
+      "mood": "Dramático / Neutro para Casting",
+      "categories": [
+        "corpo-inteiro",
+        "drama",
+        "casting"
+      ],
+      "description": "Plano aberto de corpo inteiro com expressão séria e neutra em fundo infinito, ideal para material de elenco/casting."
+    },
+    {
+      "filename": "cdgleonardo-754.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-754.jpg",
+      "driveId": "1fLcPL5mqhVn5QcGtA_gIR43ZTGdgTPrN",
+      "orientation": "portrait",
+      "framing": "plano médio",
+      "outfit": "Vestido estampado gráfico (preto, branco, azul e coral)",
+      "mood": "Teatral / Misterioso / Ribalta",
+      "categories": [
+        "teatro",
+        "drama",
+        "retrato"
+      ],
+      "description": "Iluminação cênica com foco de luz circular estilo canhão seguidor de teatro no fundo escuro; Valesca veste estampado gráfico com pose instigante."
+    },
+    {
+      "filename": "cdgleonardo-835.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-835.jpg",
+      "driveId": "1ChaTIm9Vu2anXWWZ8ZzuGpaUzVnaIqG7",
+      "orientation": "portrait",
+      "framing": "close-up",
+      "outfit": "Boá de plumas pretas em luz dramática de palco",
+      "mood": "Dramático / Cabaré / Teatral",
+      "categories": [
+        "teatro",
+        "drama",
+        "close-up"
+      ],
+      "description": "Close-up teatral de alto contraste em fundo negro, rosto emoldurado por plumas pretas sob foco de luz direto."
+    },
+    {
+      "filename": "cdgleonardo-849.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-849.jpg",
+      "driveId": "1vj9gRjv-bONWwSLyIPy0lcBjmT5eE_y7",
+      "orientation": "portrait",
+      "framing": "plano médio",
+      "outfit": "Vestido estampado e boá de plumas pretas",
+      "mood": "Teatral / Showwoman / Comédia",
+      "categories": [
+        "teatro",
+        "comedia",
+        "retrato"
+      ],
+      "description": "Espetacular foto de espírito cênico sob foco de luz circular; Valesca envolve-se no boá de plumas pretas com gargalhada digna de palco e cabaré."
+    },
+    {
+      "filename": "cdgleonardo-869.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-869.jpg",
+      "driveId": "1IJrptnK4uoOpr8jx8bdDIvYYgzZhDzIH",
+      "orientation": "portrait",
+      "framing": "close-up",
+      "outfit": "Boá de plumas pretas e vestido estampado",
+      "mood": "Dramático / Expressivo / Cênico",
+      "categories": [
+        "teatro",
+        "drama",
+        "close-up"
+      ],
+      "description": "Close-up artístico em chiaroscuro; Valesca estende a mão em direção à câmera criando profundidade dramática."
+    },
+    {
+      "filename": "cdgleonardo-873.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-873.jpg",
+      "driveId": "1lorfKNJyul_aqQKWNl9Vctj_sfg73i2v",
+      "orientation": "portrait",
+      "framing": "close-up",
+      "outfit": "Boá de plumas pretas",
+      "mood": "Teatral / Irônico / Carismático",
+      "categories": [
+        "teatro",
+        "comedia",
+        "close-up"
+      ],
+      "description": "Close-up iluminado por feixe dramático; Valesca sorri com malícia cênica entre as plumas negras."
+    },
+    {
+      "filename": "cdgleonardo-882.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-882.jpg",
+      "driveId": "1BkA9V0oGK8CsB_PAcT5lpAPjq8TTZKxE",
+      "orientation": "portrait",
+      "framing": "plano médio",
+      "outfit": "Vestido estampado e boá de plumas pretas",
+      "mood": "Teatral / Elegante",
+      "categories": [
+        "teatro",
+        "retrato"
+      ],
+      "description": "Plano médio sob canhão de luz em fundo preto; sorriso confiante e gestual elegante com plumas negras."
+    },
+    {
+      "filename": "cdgleonardo-918.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-918.jpg",
+      "driveId": "1dtSfCDSPErBDDUBNr-t2jHaGE0KSMH4a",
+      "orientation": "portrait",
+      "framing": "plano médio (costas/perfil)",
+      "outfit": "Vestido estampado com decote nas costas e brinco vermelho",
+      "mood": "Artístico / Conceitual",
+      "categories": [
+        "teatro",
+        "drama",
+        "artistico"
+      ],
+      "description": "Ângulo artístico de costas/perfil em fundo negro, mãos nos cabelos e destaque para a tatuagem floral nas costas."
+    },
+    {
+      "filename": "cdgleonardo-944.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-944.jpg",
+      "driveId": "1aFmpn_AdlwvAMXGtTzECsggGzdDCAa6c",
+      "orientation": "portrait",
+      "framing": "plano médio",
+      "outfit": "Regata preta em camarim iluminado",
+      "mood": "Camarim / Bastidores / Preparação de Atriz",
+      "categories": [
+        "camarim",
+        "bastidores",
+        "retrato"
+      ],
+      "description": "Cena clássica de camarim: Valesca diante do espelho com lâmpadas de camarim aplicando rímel e olhando pelo reflexo."
+    },
+    {
+      "filename": "cdgleonardo-957.jpg",
+      "localPath": "/assets/ensaio/cdgleonardo-957.jpg",
+      "driveId": "1TXom2ReMnGbOA51PAnFoOwr2df966dML",
+      "orientation": "portrait",
+      "framing": "close-up / plano médio",
+      "outfit": "Regata preta em camarim iluminado",
+      "mood": "Comédia / Camarim / Expressão divertida",
+      "categories": [
+        "camarim",
+        "comedia",
+        "bastidores"
+      ],
+      "description": "No espelho iluminado do camarim, Valesca aplica batom/gloss fazendo uma expressão cômica de olhos arregalados."
+    }
+  ],
+  "theaterStockImages": [
+    {
+      "filename": "stage-spotlight.jpg",
+      "localPath": "/assets/theater/stage-spotlight.jpg",
+      "theme": "Palco iluminado / Teatro com plateia",
+      "description": "Palco de teatro iluminado em tons de azul com ator em cena e silhueta da plateia."
+    },
+    {
+      "filename": "theater-curtains.jpg",
+      "localPath": "/assets/theater/theater-curtains.jpg",
+      "theme": "Cortina de teatro clássica / Ribalta",
+      "description": "Cortina de veludo vermelho intensa fechada sobre o palco de madeira com caixas de retorno na ribalta."
+    },
+    {
+      "filename": "cinema-clapperboard.jpg",
+      "localPath": "/assets/theater/cinema-clapperboard.jpg",
+      "theme": "Claquete de Cinema e TV / Audiovisual",
+      "description": "Claquete profissional digital de cinema/TV com timecode vermelho sendo acionada em set externo."
+    },
+    {
+      "filename": "theater-masks-stage.jpg",
+      "localPath": "/assets/theater/theater-masks-stage.jpg",
+      "theme": "Dramaturgia / Silhuetas teatrais na cortina vermelha",
+      "description": "Três silhuetas teatrais dramáticas e cômicas projetadas contra a cortina vermelha iluminada."
+    },
+    {
+      "filename": "stage-lighting.jpg",
+      "localPath": "/assets/theater/stage-lighting.jpg",
+      "theme": "Refletores e feixes de luz de espetáculo",
+      "description": "Feixes de luz cênica e neblina sobre o palco e público em apresentação ao vivo."
+    },
+    {
+      "filename": "standup-microphone.jpg",
+      "localPath": "/assets/theater/standup-microphone.jpg",
+      "theme": "Microfone de Stand-Up Comedy no palco",
+      "description": "Microfone vintage iluminado em close no palco com luzes bokeh quentes e azuis ao fundo, perfeito para seção de Stand-Up Comedy."
+    }
+  ]
+}
