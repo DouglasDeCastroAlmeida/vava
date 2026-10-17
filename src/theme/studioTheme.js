@@ -105,9 +105,9 @@ export const COLOR_PALETTES = {
   },
 };
 
-export function getStudioTheme(mode = 'light', paletteId = 'terracotta') {
+export function getStudioTheme(mode = 'dark', paletteId = 'studio') {
   const isDark = mode === 'dark';
-  const selectedPalette = COLOR_PALETTES[paletteId] || COLOR_PALETTES.terracotta;
+  const selectedPalette = COLOR_PALETTES[paletteId] || COLOR_PALETTES.studio;
   const tokens = isDark ? selectedPalette.dark : selectedPalette.light;
 
   return createTheme({

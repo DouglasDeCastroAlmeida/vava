@@ -66,7 +66,7 @@ export default function TheaterPillarsAndTimeline() {
         loop
         muted
         playsInline
-        poster={assetUrl('/assets/theater/stage-spotlight.jpg')}
+        poster={assetUrl('/assets/theater/valesca-stage-poster.jpg')}
         src={assetUrl('/assets/theater/stage-bg.mp4')}
         sx={{
           position: 'absolute',
@@ -74,8 +74,9 @@ export default function TheaterPillarsAndTimeline() {
           width: '100%',
           height: '100%',
           objectFit: 'cover',
-          opacity: 0.34,
-          filter: 'saturate(1.15) contrast(1.05)',
+          objectPosition: 'center 25%',
+          opacity: 0.42,
+          filter: 'saturate(1.2) contrast(1.1)',
           zIndex: 0,
           pointerEvents: 'none',
         }}

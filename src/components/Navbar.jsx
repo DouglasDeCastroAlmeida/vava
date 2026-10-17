@@ -18,8 +18,6 @@ import {
   Avatar,
   Tooltip,
   Stack,
-  Menu,
-  MenuItem,
   useTheme,
   alpha,
 } from '@mui/material';
@@ -28,8 +26,6 @@ import {
   CloseRounded,
   DarkModeRounded,
   LightModeRounded,
-  PaletteRounded,
-  CheckRounded,
   WhatsApp,
   Instagram,
   LiveTvRounded,
@@ -39,7 +35,6 @@ import {
   HomeRounded,
 } from '@mui/icons-material';
 import { ARTIST_INFO } from '../data/portfolioData';
-import { COLOR_PALETTES } from '../theme/studioTheme';
 
 const NAV_ITEMS = [
   { id: 'inicio', label: 'Início', icon: <HomeRounded fontSize="small" /> },
@@ -52,14 +47,11 @@ const NAV_ITEMS = [
 export default function Navbar({
   mode,
   onToggleMode,
-  paletteId,
-  onSelectPalette,
   activeSection,
   onNavigate,
 }) {
   const theme = useTheme();
   const [drawerOpen, setDrawerOpen] = useState(false);
-  const [paletteMenuAnchor, setPaletteMenuAnchor] = useState(null);
 
   const currentTabIndex = Math.max(
     0,
@@ -108,7 +100,7 @@ export default function Navbar({
             >
               <Avatar
                 src={ARTIST_INFO.profileImage}
-                alt="Vavá"
+                alt="Valesca Almeida"
                 sx={{
                   width: 38,
                   height: 38,
@@ -116,16 +108,16 @@ export default function Navbar({
                 }}
               />
               <Typography
-                variant="h5"
+                variant="h6"
                 sx={{
                   fontWeight: 800,
-                  fontSize: '1.35rem',
+                  fontSize: { xs: '1.15rem', md: '1.25rem' },
                   letterSpacing: '-0.02em',
                   lineHeight: 1,
                   color: 'text.primary',
                 }}
               >
-                Vavá
+                Valesca Almeida
               </Typography>
             </Stack>
 
@@ -163,23 +155,8 @@ export default function Navbar({
               </Tabs>
             </Box>
 
-            {/* Right Actions: Palette Selector, Theme Mode, Instagram & Contratar */}
+            {/* Right Actions: Theme Mode, Instagram & Contratar */}
             <Stack direction="row" spacing={1} alignItems="center">
-              <Tooltip title="Escolher Paleta de Cores (Color Hunt / Adobe Color)">
-                <IconButton
-                  onClick={(e) => setPaletteMenuAnchor(e.currentTarget)}
-                  color="inherit"
-                  size="small"
-                  sx={{
-                    width: 38,
-                    height: 38,
-                    border: `1px solid ${alpha(theme.palette.primary.main, 0.25)}`,
-                    bgcolor: alpha(theme.palette.background.paper, 0.6),
-                  }}
-                >
-                  <PaletteRounded fontSize="small" sx={{ color: 'primary.main' }} />
-                </IconButton>
-              </Tooltip>
 
               <Tooltip title={mode === 'dark' ? 'Alternar para Modo Claro' : 'Alternar para Modo Escuro'}>
                 <IconButton
@@ -255,80 +232,6 @@ export default function Navbar({
         </Container>
       </AppBar>
 
-      {/* Color Hunt / Adobe Color Palette Menu */}
-      <Menu
-        anchorEl={paletteMenuAnchor}
-        open={Boolean(paletteMenuAnchor)}
-        onClose={() => setPaletteMenuAnchor(null)}
-        PaperProps={{
-          sx: {
-            mt: 1,
-            width: 320,
-            borderRadius: '14px',
-            p: 1,
-          },
-        }}
-      >
-        <Box sx={{ px: 1.5, py: 1 }}>
-          <Typography variant="overline" color="primary.main" sx={{ display: 'block', lineHeight: 1.2 }}>
-            HARMONIA DE CORES (ADOBE COLOR &amp; COLOR HUNT)
-          </Typography>
-          <Typography variant="caption" color="text.secondary">
-            Teste ao vivo as 3 propostas cromáticas:
-          </Typography>
-        </Box>
-        <Divider sx={{ my: 0.5 }} />
-        {Object.values(COLOR_PALETTES).map((pal) => {
-          const isSelected = paletteId === pal.id;
-          return (
-            <MenuItem
-              key={pal.id}
-              selected={isSelected}
-              onClick={() => {
-                onSelectPalette(pal.id);
-                setPaletteMenuAnchor(null);
-              }}
-              sx={{
-                borderRadius: '10px',
-                py: 1.25,
-                px: 1.5,
-                mb: 0.5,
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'stretch',
-              }}
-            >
-              <Stack direction="row" justifyContent="space-between" alignItems="center" sx={{ mb: 0.75 }}>
-                <Typography variant="body2" sx={{ fontWeight: 800 }}>
-                  {pal.name}
-                </Typography>
-                {isSelected && <CheckRounded fontSize="small" color="primary" />}
-              </Stack>
-
-              {/* 4 Color Hunt Swatch Bar */}
-              <Stack
-                direction="row"
-                sx={{
-                  height: 18,
-                  borderRadius: '6px',
-                  overflow: 'hidden',
-                  border: '1px solid rgba(0,0,0,0.12)',
-                  mb: 0.6,
-                }}
-              >
-                {pal.swatches.map((hex) => (
-                  <Box key={hex} sx={{ flex: 1, bgcolor: hex }} />
-                ))}
-              </Stack>
-
-              <Typography variant="caption" color="text.secondary" sx={{ whiteSpace: 'normal', fontSize: '0.72rem' }}>
-                {pal.rule}
-              </Typography>
-            </MenuItem>
-          );
-        })}
-      </Menu>
-
       {/* Mobile Drawer */}
       <Drawer
         anchor="right"
@@ -348,13 +251,13 @@ export default function Navbar({
         <Box>
           <Stack direction="row" justifyContent="space-between" alignItems="center" sx={{ mb: 2 }}>
             <Stack direction="row" spacing={1.25} alignItems="center">
-              <Avatar src={ARTIST_INFO.profileImage} alt="Vavá" />
+              <Avatar src={ARTIST_INFO.profileImage} alt="Valesca Almeida" />
               <Box>
                 <Typography variant="subtitle1" sx={{ fontWeight: 800, lineHeight: 1.2 }}>
-                  Vavá
+                  Valesca Almeida
                 </Typography>
                 <Typography variant="caption" color="text.secondary">
-                  {ARTIST_INFO.name}
+                  Atriz &amp; Comediante
                 </Typography>
               </Box>
             </Stack>

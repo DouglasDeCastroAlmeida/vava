@@ -19,11 +19,11 @@ const SECTION_IDS = [
 ];
 
 export default function App() {
-  const [mode, setMode] = useState('light');
-  const [paletteId, setPaletteId] = useState('terracotta');
+  const [mode, setMode] = useState('dark');
+  const paletteId = 'studio';
   const [activeSection, setActiveSection] = useState('inicio');
 
-  const theme = useMemo(() => getStudioTheme(mode, paletteId), [mode, paletteId]);
+  const theme = useMemo(() => getStudioTheme(mode, paletteId), [mode]);
 
   const handleToggleMode = () => {
     setMode((prev) => (prev === 'dark' ? 'light' : 'dark'));
@@ -59,8 +59,6 @@ export default function App() {
         <Navbar
           mode={mode}
           onToggleMode={handleToggleMode}
-          paletteId={paletteId}
-          onSelectPalette={setPaletteId}
           activeSection={activeSection}
           onNavigate={handleNavigate}
         />
