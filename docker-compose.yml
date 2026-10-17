@@ -1,0 +1,29 @@
+services:
+  website:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: valesca_almeida_website
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - caddy_data:/data
+      - caddy_config:/config
+    networks:
+      - vava_network
+
+networks:
+  vava_network:
+    name: vava_network
+    driver: bridge
+
+volumes:
+  caddy_data:
+    name: vava_caddy_data
+  caddy_config:
+    name: vava_caddy_config

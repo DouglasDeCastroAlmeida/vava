@@ -1,0 +1,16 @@
+{
+    email douglas.castro.almeida@gmail.com
+}
+
+valescaalmeida.com, www.valescaalmeida.com, localhost {
+    root * /usr/share/caddy
+    file_server
+    try_files {path} /index.html
+    encode gzip zstd
+
+    # Cache static assets for maximum performance
+    @static {
+        path *.ico *.css *.js *.gif *.jpg *.jpeg *.png *.svg *.woff *.woff2 *.mp4 *.json
+    }
+    header @static Cache-Control "public, max-age=15552000, immutable"
+}
