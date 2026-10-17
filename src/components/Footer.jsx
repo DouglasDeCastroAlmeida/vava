@@ -133,19 +133,18 @@ export default function Footer() {
 
         <Divider sx={{ my: 3.5 }} />
 
-        <Stack
-          direction={{ xs: 'column', sm: 'row' }}
-          justifyContent="space-between"
-          alignItems="center"
-          spacing={1.5}
+        <Box
+          sx={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            textAlign: 'center',
+          }}
         >
           <Typography variant="caption" color="text.secondary">
             © {new Date().getFullYear()} Valesca Almeida (Vavá). Todos os direitos reservados. Ensaio fotográfico: @cdgleonardo.
           </Typography>
-          <Typography variant="caption" color="text.secondary">
-            Desenvolvido em React + Material UI • Pronto para publicação na Hostinger
-          </Typography>
-        </Stack>
+        </Box>
       </Container>
     </Box>
   );
